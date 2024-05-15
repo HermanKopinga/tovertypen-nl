@@ -71,3 +71,6 @@ Met de autocorrectie-functie in Outlook kun je snel tekstsnippets invoegen door 
 
 3. **Zie hoe de afkorting wordt vervangen**:
    - De afkorting wordt automatisch vervangen door de volledige tekst die je hebt ingesteld.
+
+{: .opmerking }
+Deze pagina is nog niet op inhoud gecontroleerd. Anders zou hier staan: "Deze pagina is voor het laatst in mei 2024 door Herman op inhoud gecontroleerd"
