@@ -85,6 +85,8 @@ Netjes en volledig afwimpelen kan enorm helpen in je mailbox leegwerken. Zeker a
 | lisorry; | Ik gebruik LinkedIn om mijn persoonlijke netwerk in kaart te brengen. Dat is voor mijn omgeving ook waardevol, dan kan ik iets zinnigs zeggen over iedereen waar ik mee verbonden ben. <br /><br />Ik kan me vergissen maar ik kan me geen ontmoeting herinneren en je uitnodiging gaf me ook geen aanknopingspunten.<br /><br /> Blijkbaar schat je in dat een 'link' een goed idee is, ik ben gewend om dat blindelings te geloven maar koppel daar dan liever een kop koffie aan dan een digitaal dingetje op een netwerksite. Als je dat met me eens bent ben ik benieuwd wanneer jij kunt. |
 
 ## Verkoop
+Bij verkoopafdelingen is altijd een drang naar indivualisme die schuurt met bewustzijn dat veel klantcontact en aanbiedingen op elkaar lijken. Tovertypend kun je de basis van een e-mail neerzetten waar je vervolgens als verkoop-vakman de nodige wijzigingen in maakt voor je 'm verstuurd.
+
 | Afkorting | wordt |
 | -------- | ------- |
 | dank; | Dank voor het vertrouwen in onze diensten, we kijken uit naar je reactie op deze aanbieding. |
