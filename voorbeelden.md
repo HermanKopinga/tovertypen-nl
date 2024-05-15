@@ -67,11 +67,16 @@ Afhankelijk van je omgeving (en hoe je hier zelf in zit)
 
 | Afkorting | wordt |
 | -------- | ------- |
+| dagen; | Mijn werkdagen zijn maandag, donderdag en vrijdag. Voor spoed op dinsdag of woensdag kun je Rieneke contacten, zij leest op deze dagen mijn mailbox ook. |
+| | |
 
 ## Afwimpelen
+Netjes en volledig afwimpelen kan enorm helpen in je mailbox. Zeker als
 
 | Afkorting | wordt |
 | -------- | ------- |
+| functie; | Sinds afgelopen maart is mijn functie veranderd. Ik ben nog dezelfde persoon in dezelfde organisatie, dus word vaak goed gevonden voor project voedsel en project rechtpad. Ik heb ook erg de neiging om deze vragen te beantwoorden. Niet handig natuurlijk, ik weet de huidige status niet. Dus ik wil je vragen om Monique aan te spreken voor project voedsel en Anne te contacten voor project rechtpad. Dankjewel! |
+| orakel; | Goeie vraag, de vorige keer dat ik deze kreeg heb ik het antwoord op ons intern orakel gezet. Kijk even op https://internesite.example.nl, daar staan ook de linkjes naar de andere onderwerpen die relevant zijn voor nu en in de toekomst. Mocht het niet compleet zijn kun je daar ook gelijk toevoegingen aanvragen. |
 
 ## Omgaan met sociale media
 
