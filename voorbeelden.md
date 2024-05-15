@@ -29,6 +29,11 @@ Veel mailprogramma's hebben hier een eigen functie voor. Door ze "los" te halen 
 ## Vocabulair
 Termen als epididymitis, epicondylitis lateralis, kiepproef negatief, geen dysdiadochokinese zijn voor een huisarts heel relevant. Jij hebt samen met je collega's allerlei eigenheden met risico op spelfouten.
 
+| Afkorting | wordt |
+| --------- | ----- |
+| /pw | Participatiewet |
+| /pb | Participatiebedrijf |
+
 ## "Moeilijke" namen
 Je kunt je er vast wat bij voorstellen, collega's je er meerdere keren op gewezen hebben dat je hun naam verkeert spelt. Tovertypen kan je hierin onzeker zoekwerk helpen voorkomen:
 
@@ -50,7 +55,8 @@ Afhankelijk van je omgeving (en hoe je hier zelf in zit)
 | ohm;     | Ω       |
 | eur;     | €       |
 
-## Nummers (met name voor meer of minder zelfstandig ondernemers)
+## Nummers 
+met name voor meer of minder zelfstandig ondernemers)
 
 | Afkorting | wordt |
 | -------- | ------- |
