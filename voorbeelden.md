@@ -8,7 +8,8 @@ Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die all
 
 Vaak wordt een speciaal karakter gekozen om afkortingen mee te starten of afsluiten. Bijvoorbeeld `;` want deze zit lekker onder je rechter pink. Andere _makkelijk_ te typen karakters zijn bijvoorbeeld `/`, `[` en `]`. Om het maximale uit de tijdswinst van tovertypen te halen kun je beter geen speciaal karakter kiezen waar je shift voor nodig hebt. Dus geen `@`,`#`,`$`,`%`,`^`,`&` of `*`, hoewel daar op het eerste gezicht best aardige kandidaten tussen zitten.
 
-## Wat basale eerst, voor jezelf (en eventueel mensen of projecten waar je veel mee werkt).
+## De basis
+Eerst jezelf en eventueel mensen of projecten waar je regelmatig over communiceert.
 
 | Afkorting | wordt |
 | -------- | ------- |
@@ -97,3 +98,12 @@ Bij verkoopafdelingen is altijd een drang naar indivualisme die schuurt met bewu
 | p2; | Optie voor inspirerende key-note spreker om dit evenement memorabel te maken ... |
 | p3; | Graag biedt ik een vuurwerkshow als optie aan, doe ik niet altijd maar ik heb de indruk dat dit voor jullie de kers op de taart kan zijn. |
 | demo; | Voor vragen of onduidelijkheden ben ik (of een van mijn collega's) natuurlijk via email altijd bereikbaar. Wilt u nog een vrijblijvende demo inplannen voor het verwachte effect kan dit via onze webportal op https://www.example.nl |
+
+## Internationaal samenwerken
+Hoe lekker is het als je een internationale partner in de eigen taal aan kunt spreken.
+| Afkorting | wordt |
+| -------- | ------- |
+| 8ig; | 8 hours overtime for a good cause |
+| 8ii; | 8 ore di straordinario per una buona causa |
+| 8id; | 8 Überstunden für einen guten Zweck |
+| 8ie; | 8 horas extra para un buen fin |
