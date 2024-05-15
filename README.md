@@ -1,3 +1,7 @@
+# Tovertypen.nl
+
+Dit is de "achterkant" van Tovertypen.nl, publiek op het internet gedeeld zodat je (hopelijk) makkelijker kunt bijdragen. Bovendien zijn wijzigingen makkelijk te volgen en eventueel terug te draaien. Laatste fijne detail: de pagina's zelf zijn statisch. Geen content management systeem wat continue om aandacht vraagt om een dozijn pagina's op het internet te houden.
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
