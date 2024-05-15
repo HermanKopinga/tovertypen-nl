@@ -21,14 +21,10 @@ Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die all
 ## Dan wat e-mail handtekeningen, 
 Veel mailprogramma's hebben hier een eigen functie voor. Door ze "los" te halen kun je ze ook in contactformulieren op het web of bijvoorbeeld in LinkedIN berichten gebruiken.
 
-ch; Cheers!
-
-Herman
-06 12312312
-groet; Met vriendelijke groet,
-
-Herman Kopinga
-06 51371447
+| Afkorting | wordt |
+| -------- | ------- |
+|ch; | Cheers!<br /><br />Herman<br />06 12312312 |
+|groet; | Met vriendelijke groet, <br /><br />Herman Kopinga<br />06 51371447 |
 
 ## Vocabulair
 Termen als epididymitis, epicondylitis lateralis, kiepproef negatief, geen dysdiadochokinese zijn voor een huisarts heel relevant. Jij hebt samen met je collega's allerlei eigenheden met risico op spelfouten.
