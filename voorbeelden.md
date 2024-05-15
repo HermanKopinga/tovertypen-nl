@@ -31,7 +31,7 @@ Herman Kopinga
 06 51371447
 
 ## Vocabulair
-Terman als epididymitis, epicondylitis lateralis, kiepproef negatief, geen dysdiadochokinese zijn voor een huisarts heel relevant. Jij hebt samen met je collega's allerlei eigenheden met risico op spelfouten.
+Termen als epididymitis, epicondylitis lateralis, kiepproef negatief, geen dysdiadochokinese zijn voor een huisarts heel relevant. Jij hebt samen met je collega's allerlei eigenheden met risico op spelfouten.
 
 ## "Moeilijke" namen
 Je kunt je er vast wat bij voorstellen, collega's je er meerdere keren op gewezen hebben dat je hun naam verkeert spelt. Tovertypen kan je hierin onzeker zoekwerk helpen voorkomen:
