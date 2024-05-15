@@ -4,7 +4,9 @@ layout: home
 ---
 
 # Tovertypen voorbeelden & inspiratie
-Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die allicht helpen om zelf ook tot lekker werkende afkortingen te komen. Handig om rekening mee te houden: kies afkortingen die uniek genoeg zijn. Hieronder zie je verschillende strategieen om te voorkomen dat je door je eigen handigheid in de weg gezeten wordt. Stel je voor dat je _06_ kiest als afkorting voor je mobiele nummer.
+Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die allicht helpen om zelf ook tot lekker werkende afkortingen te komen. Handig om rekening mee te houden: kies afkortingen die uniek genoeg zijn. Hieronder zie je verschillende strategieen om te voorkomen dat je door je eigen handigheid in de weg gezeten wordt. Stel je voor dat je _mob_ kiest als afkorting voor je mobiele nummer dat zou gekke verassingen opleveren als je ergens nietsvermoedend _mobiel technisch team_ wilt typen. Dat zou resulteren in iets als _06 12312312iel technisch team_. 
+
+Vaak wordt een speciaal karakter gekozen om afkortingen mee te starten of afsluiten. Bijvoorbeeld `;` want deze zit lekker onder je rechter pink. Andere _makkelijk_ te typen karakters zijn bijvoorbeeld `/`, `[` en `]`. Om het maximale uit de tijdswinst van tovertypen te halen kun je beter geen speciaal karakter kiezen waar je shift voor nodig hebt. Dus geen `@`,`#`,`$`,`%`,`^`,`&` of `*`, hoewel daar op het eerste gezicht best aardige kandidaten tussen zitten.
 
 ## Wat basale eerst, voor jezelf (en eventueel mensen of projecten waar je veel mee werkt).
 
