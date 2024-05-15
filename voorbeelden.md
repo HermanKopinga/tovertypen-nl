@@ -63,8 +63,7 @@ Afhankelijk van je omgeving (en hoe je hier zelf in zit)
 
 | Afkorting | wordt |
 | -------- | ------- |
-| dagen; | Mijn werkdagen zijn maandag, donderdag en vrijdag. Voor spoed op dinsdag of woensdag kun je Rieneke contacten, zij leest op deze dagen mijn mailbox ook. |
-| | |
+| dagen; | Mijn werkdagen zijn maandag, donderdag en vrijdag. Voor spoed op dinsdag of woensdag kun je Rieneke contacten via rieneke@example.nl. |
 
 ## Afwimpelen
 Netjes en volledig afwimpelen kan enorm helpen in je mailbox. Zeker als
