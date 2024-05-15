@@ -19,3 +19,6 @@ Gratis
 Kan veel meer, risico van bomen/bos. Zit wel een gigantische potentie in, vind je het leuk om nóg meer uit je computer te halen is dit zeker een tip.
 ## Breevy
 ??
+
+{: .opmerking }
+Deze pagina is nog niet op inhoud gecontroleerd. Anders zou hier staan: "Deze pagina is voor het laatst in mei 2024 door Herman op inhoud gecontroleerd"
