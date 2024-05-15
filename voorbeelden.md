@@ -11,17 +11,17 @@ Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die all
 
 | Afkorting | wordt |
 | -------- | ------- |
-| hk; Herman Kopinga
-| hk/ https://hermankopinga.nl
-| hk@ herman@kopinga.nl
-| mob; 06 1231312
-| tt/ http://www.tovertypen.nl/
-| df/ https://www.digitalefitheid.nl
+| hk;  | Herman Kopinga |
+| hk/  | https://hermankopinga.nl |
+| hk@  | herman@kopinga.nl |
+| mob;  | 06 1231312 |
+| tt/  | http://www.tovertypen.nl/ |
+| df/  | https://www.digitalefitheid.nl |
 
 ## Dan wat e-mail handtekeningen, 
 Veel mailprogramma's hebben hier een eigen functie voor. Door ze "los" te halen kun je ze ook in contactformulieren op het web of bijvoorbeeld in LinkedIN berichten gebruiken.
 
-ch;	Cheers!
+ch; Cheers!
 
 Herman
 06 12312312
