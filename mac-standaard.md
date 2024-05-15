@@ -25,3 +25,6 @@ Op een Mac kun je standaard tovertypen gebruiken om snel herhaalde teksten in te
 
 5. **Gebruik de tekstvervanging**:
    - Typ de afkorting in een tekstveld in een app, en het zal automatisch vervangen worden door de volledige tekst.
+
+{: .opmerking }
+Deze pagina is nog niet op inhoud gecontroleerd. Anders zou hier staan: "Deze pagina is voor het laatst in mei 2024 door Herman op inhoud gecontroleerd"
