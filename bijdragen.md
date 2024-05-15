@@ -1,3 +1,9 @@
+---
+title: Bijdragen
+layout: home
+nav_exclude: true
+---
+
 # Bijdragen aan tovertypen.nl
 
 Deze pagina's worden door een aantal enthousiaste vrijwilligers gemaakt en zo goed mogelijk up to date gehouden. Zijn er dingen die niet kloppen? Daar hebben we meerdere opties voor:
