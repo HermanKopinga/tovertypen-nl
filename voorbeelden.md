@@ -1,4 +1,4 @@
 ---
-title: Voorbeelden / inspiratie
+title: Voorbeelden & inspiratie
 layout: home
 ---
