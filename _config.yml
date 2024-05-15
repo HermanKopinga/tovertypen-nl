@@ -10,7 +10,7 @@ aux_links:
 callouts:
   note-title:
     color: blue
-    opacity: 0.8
+    opacity: 0.1
   opmerking:
     color: blue
-    opacity: 0.6
+    opacity: 0.15
