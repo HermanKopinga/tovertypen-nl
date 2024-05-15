@@ -24,7 +24,7 @@ Veel mailprogramma's hebben hier een eigen functie voor. Door ze "los" te halen 
 | Afkorting | wordt |
 | -------- | ------- |
 |ch; | Cheers!<br /><br />Herman<br />06 12312312 |
-|groet; | Met vriendelijke groet, <br /><br />Herman Kopinga<br />06 51371447 |
+|groet; | Met vriendelijke groet, <br /><br />Herman Kopinga<br />06 12312312 |
 
 ## Vocabulair
 Termen als epididymitis, epicondylitis lateralis, kiepproef negatief, geen dysdiadochokinese zijn voor een huisarts heel relevant. Jij hebt samen met je collega's allerlei eigenheden met risico op spelfouten.
