@@ -4,6 +4,7 @@ layout: home
 nav_order: 10
 ---
 
+{: .warning } 
 ### Alpha (zo beta dat er nog geen eens beta links bovenaan staat @joost).
 Hoi!
 Voor het eerst sinds 2018 (ofzo, kan langer geleden zijn) ben ik bezig met de inhoud van Tovertypen.nl. Het was een met-de-hand gebouwde HTML site. Dat schiet niet meer op in 2024, dus gebruik ik github pages. Dit resulteert in statische paginas, dus geen gedoe met updaten van je CMS zoals bijvoorbeeld met Wordpess. Opmaak is in Markdown, wijzigingen zijn makkelijk-ish via een browser te doen. En via het _Just the docs_ theme zit er een net menu en alles aan.
