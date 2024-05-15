@@ -9,4 +9,4 @@ Deze pagina's worden door een aantal enthousiaste vrijwilligers gemaakt en zo go
     - Er zijn ook diverse online markdown editors die je kunt gebruiken. Een krachtige is: voorbeeld een eenvoudige is: voorbeeld. #TODO
 
 ## Techniek
-Technisch draait deze site op github pages, met behulp van de [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme voor Jekyll.
+Technisch draait deze site op github pages, met behulp van de [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme voor Jekyll.
