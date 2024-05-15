@@ -1,6 +1,7 @@
 ---
 title: Start
 layout: home
+nav_order: 10
 ---
 
 # Welkom! Tovertyp met ons mee!
