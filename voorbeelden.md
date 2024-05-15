@@ -4,8 +4,7 @@ layout: home
 ---
 
 # Tovertypen voorbeelden & inspiratie
-
-Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die allicht helpen om zelf ook tot lekker werkende afkortingen te komen.
+Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die allicht helpen om zelf ook tot lekker werkende afkortingen te komen. Handig om rekening mee te houden: kies afkortingen die uniek genoeg zijn. Hieronder zie je verschillende strategieen om te voorkomen dat je door je eigen handigheid in de weg gezeten wordt. Stel je voor dat je _06_ kiest als afkorting voor je mobiele nummer.
 
 ## Wat basale eerst, voor jezelf (en eventueel mensen of projecten waar je veel mee werkt).
 
@@ -72,7 +71,7 @@ met name voor meer of minder zelfstandig ondernemers)
 | dagen; | Mijn werkdagen zijn maandag, donderdag en vrijdag. Voor spoed op dinsdag of woensdag kun je Rieneke contacten via rieneke@example.nl. |
 
 ## Afwimpelen
-Netjes en volledig afwimpelen kan enorm helpen in je mailbox. Zeker als
+Netjes en volledig afwimpelen kan enorm helpen in je mailbox leegwerken. Zeker als je al een tijdje meeloopt in je organisatie kan dit helpen mensen de juiste kanalen te gebruiken.
 
 | Afkorting | wordt |
 | -------- | ------- |
@@ -84,3 +83,13 @@ Netjes en volledig afwimpelen kan enorm helpen in je mailbox. Zeker als
 | Afkorting | wordt |
 | -------- | ------- |
 | lisorry; | Ik gebruik LinkedIn om mijn persoonlijke netwerk in kaart te brengen. Dat is voor mijn omgeving ook waardevol, dan kan ik iets zinnigs zeggen over iedereen waar ik mee verbonden ben. <br /><br />Ik kan me vergissen maar ik kan me geen ontmoeting herinneren en je uitnodiging gaf me ook geen aanknopingspunten.<br /><br /> Blijkbaar schat je in dat een 'link' een goed idee is, ik ben gewend om dat blindelings te geloven maar koppel daar dan liever een kop koffie aan dan een digitaal dingetje op een netwerksite. Als je dat met me eens bent ben ik benieuwd wanneer jij kunt. |
+
+## Verkoop
+| Afkorting | wordt |
+| -------- | ------- |
+| dank; | Dank voor het vertrouwen in onze diensten, we kijken uit naar je reactie op deze aanbieding. |
+| trots; | Zoals wellicht bekend zijn onze diensten al 5 jaar achter elkaar maximale gewaardeerd door onze klanten. |
+| p1; | Volledig turn-key opgeleverde oplossing voor uw bedrijsftraining met ... |
+| p2; | Optie voor inspirerende key-note spreker om dit evenement memorabel te maken ... |
+| p3; | Graag biedt ik een vuurwerkshow als optie aan, doe ik niet altijd maar ik heb de indruk dat dit voor jullie de kers op de taart kan zijn. |
+| demo; | Voor vragen of onduidelijkheden ben ik (of een van mijn collega's) natuurlijk via email altijd bereikbaar. Wilt u nog een vrijblijvende demo inplannen voor het verwachte effect kan dit via onze webportal op https://www.example.nl |
