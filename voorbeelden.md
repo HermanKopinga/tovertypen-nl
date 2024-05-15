@@ -8,6 +8,7 @@ layout: home
 Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die allicht helpen om zelf ook tot lekker werkende afkortingen te komen.
 
 ## Wat basale eerst, voor jezelf (en eventueel mensen of projecten waar je veel mee werkt).
+
 | Afkorting | wordt |
 | -------- | ------- |
 | hk; Herman Kopinga
@@ -34,6 +35,7 @@ Terman als epididymitis, epicondylitis lateralis, kiepproef negatief, geen dysdi
 
 ## "Moeilijke" namen
 Je kunt je er vast wat bij voorstellen, collega's je er meerdere keren op gewezen hebben dat je hun naam verkeert spelt. Tovertypen kan je hierin onzeker zoekwerk helpen voorkomen:
+
 | Afkorting | wordt |
 | -------- | ------- |
 | tjerrie;  | Thierry |
@@ -44,13 +46,16 @@ Je kunt je er vast wat bij voorstellen, collega's je er meerdere keren op geweze
 
 ## Zorgvuldigheden
 Afhankelijk van je omgeving (en hoe je hier zelf in zit) 
+
 | Afkorting | wordt |
 | -------- | ------- |
 | m2;      | m²      |
 | m3;      | m³      |
 | ohm;     | Ω       |
+| eur;     | €       |
 
 ## Nummers (met name voor meer of minder zelfstandig ondernemers)
+
 | Afkorting | wordt |
 | -------- | ------- |
 | zrek; | NL77 TRIO 0786 8310 30 |
