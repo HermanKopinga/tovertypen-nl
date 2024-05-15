@@ -64,13 +64,16 @@ Afhankelijk van je omgeving (en hoe je hier zelf in zit)
 | btw; | NL176730084B01 |
 
 ## Beschikbaarheids of bereikbaarheidsinformatie
+
 | Afkorting | wordt |
 | -------- | ------- |
 
 ## Afwimpelen
+
 | Afkorting | wordt |
 | -------- | ------- |
 
 ## Omgaan met sociale media
+
 | Afkorting | wordt |
 | -------- | ------- |
