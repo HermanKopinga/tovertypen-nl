@@ -6,3 +6,8 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Digitale Fitheid: https://www.digitalefitheid.nl
+
+callouts:
+  note-title:
+    color: blue
+    opacity: 0.3
