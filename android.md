@@ -49,3 +49,6 @@ Als je een Samsung-apparaat hebt, kun je de ingebouwde tekstvervanging van het t
    - Tik op **Toevoegen**.
    - Voer de volledige tekst in het veld **Uitdrukking** en de afkorting in het veld **Sneltoets**.
    - Tik op **Toevoegen** om op te slaan.
+
+{: .opmerking }
+Deze pagina is nog niet op inhoud gecontroleerd. Anders zou hier staan: "Deze pagina is voor het laatst in mei 2024 door Herman op inhoud gecontroleerd"
