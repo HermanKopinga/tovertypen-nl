@@ -12,8 +12,8 @@ Zo veel mensen zo veel wensen, hieronder dan toch een aantal voorbeelden die all
 | Afkorting | wordt |
 | -------- | ------- |
 | hk;  | Herman Kopinga |
-| hk/  | https://hermankopinga.nl |
-| hk@  | herman@kopinga.nl |
+| hk/  | https://example.nl |
+| hk@  | herman@example.nl |
 | mob;  | 06 1231312 |
 | tt/  | http://www.tovertypen.nl/ |
 | df/  | https://www.digitalefitheid.nl |
