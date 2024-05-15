@@ -1,3 +1,8 @@
+---
+title: Windows standaard
+layout: home
+---
+
 Tovertypen in Outlook 365 (ook bekend als Microsoft 365) kunnen je helpen om snel standaardteksten in te voegen in je e-mails. Hier is een stapsgewijze uitleg over hoe je tovertypen snippets kunt maken en gebruiken in Outlook 365:
 Methode 1: Snelle onderdelen (Quick Parts)
 
