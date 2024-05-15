@@ -13,6 +13,7 @@ Wil je [bijdragen](bijdragen.md)? Kijk dan voor de systemen waar jij toegang toe
 
 Groet,
 Herman
+
 ---
 
 # Welkom! Tovertyp met ons mee!
