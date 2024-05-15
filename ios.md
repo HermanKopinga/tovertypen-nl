@@ -28,3 +28,6 @@ Deze methode
 ### Textexpander
 ### Gboard
 ### Swiftkey
+
+{: .opmerking }
+Deze pagina is nog niet op inhoud gecontroleerd. Anders zou hier staan: "Deze pagina is voor het laatst in mei 2024 door Herman op inhoud gecontroleerd"
