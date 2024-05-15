@@ -58,10 +58,10 @@ Afhankelijk van je omgeving (en hoe je hier zelf in zit)
 
 | Afkorting | wordt |
 | -------- | ------- |
-| zrek; | NL77 TRIO 0786 8310 30 |
-| prek; | NL12 TRIO 0786 8052 34 |
-| kvk; | 1139435 |
-| btw; | NL176730084B01 |
+| zrek; | NL77 TRIO 1234 8310 30 |
+| prek; | NL12 TRIO 1234 8052 34 |
+| kvk; | 1131235 |
+| btw; | NL123123084B01 |
 
 ## Beschikbaarheids of bereikbaarheidsinformatie
 
