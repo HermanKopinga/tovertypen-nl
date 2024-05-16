@@ -2,6 +2,10 @@
 
 Dit is de "achterkant" van Tovertypen.nl, hier op GitHub gedeeld zodat je (hopelijk) makkelijker kunt bijdragen. Bovendien zijn wijzigingen makkelijk te volgen en eventueel terug te draaien. Laatste fijne detail: de pagina's zelf zijn statisch. Geen content management systeem wat continue om aandacht vraagt om een dozijn pagina's op het internet te houden.
 
+De website wordt dus in Markdown opgemaakt, dit is dezelfde opmaaktaal als Obsidian ook gebruikt. Niet voor iedereen ideaal, dat weet ik. Wel goed gedocumenteerd.
+
+Paar onduidelijke dingen: om in de tabllen op de voorbeelden.md pagina een `enter` te kunnen toevoegen staat op die plek `<br />` de HTML tag voor nieuwe regel.
+
 Hieronder de handleidingspagina voor het thema wat gebruikt wordt. Kan op termijn allicht weer weg, nu nog handig voor referentie.
 
 # just-the-docs-template
