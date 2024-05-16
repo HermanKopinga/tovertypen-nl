@@ -4,7 +4,7 @@ Dit is de "achterkant" van Tovertypen.nl, hier op GitHub gedeeld zodat je (hopel
 
 De website wordt dus in Markdown opgemaakt, dit is dezelfde opmaaktaal als Obsidian ook gebruikt. Niet voor iedereen ideaal, dat weet ik. Wel goed gedocumenteerd.
 
-Paar onduidelijke dingen: om in de tabllen op de voorbeelden.md pagina een `enter` te kunnen toevoegen staat op die plek `<br />` de HTML tag voor nieuwe regel.
+Kleine toelichting: om in de tabllen op de voorbeelden.md pagina een `enter` te kunnen toevoegen staat op die plek `<br />` de HTML tag voor nieuwe regel.
 
 Hieronder de handleidingspagina voor het thema wat gebruikt wordt. Kan op termijn allicht weer weg, nu nog handig voor referentie.
 
