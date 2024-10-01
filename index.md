@@ -19,13 +19,14 @@ nav_order: 10
 
 ---
 
-# Welkom! Tovertyp met ons mee!
+# Tovertypen: veel sneller typen en veel minder hard werken
 
-Tovertypen is de makkelijkste manier om tijd te besparen en kwaliteit te verbeteren als je je computer gebruikt. Stukken (lappen?) tekst reproduceer je zonder moeite en afkortingen en jargon voorzie je van extra context zodat het begrip van je bericht verbeterd.
+# Waarom Tovertypen?
+## Je bespaart waanzinnig veel tijd
+Stel dat je alle keren dat je een woord, zin of zelfs hele tekst intikt vervangt met een enkele afkorting? Dat scheelt misschien per keer een paar seconden, maar smeer dat maar eens over langere tijd uit. Tovertypen kan je per jaar zomaar een flink aantal volle werkdagen schelen!
+## Het scheelt je enorm veel energie
+Tovertypen kan voorkomen dat je allemaal zoekwerk steeds weer moet doen, of dat je een bepaalde formulering steeds weer moet verzinnen. Op die manier kun je moeiteloos een goed geformuleerde tekst, compleet met adresgegevens, telefoon- en IBAN-nummers etc. elke keer weer maken. Dat scheelt niet alleen tijd, maar ook enorm veel energie!
 
-Het werkt in de basis door gebruik te maken van functies die al aanwezig zijn. In veel software die we dagelijks gebruiken zit namelijk een functie om spellingsfouten te corrigeren, of standaard textblokken te reproduceren. Als je op je computer zelf software mag installeren is het voor extra comfort, of makkelijker samenwerken, het handigst als je specifieke software hiervoor installeert. Onderaan deze pagina lees je precies hoe en wat.
-
-Voorbeeld van tovertypen is dat je je initialen typt en je volledige naam verschijnt. Of je (werk)adres nadat je adres; typt. Een routebeschrijving naar je favoriete plek om af te spreken inclusief parkeerinstructie en optimale bereikbaarheid met het openbaar vervoer tover je met afspraak; tevoorschijn. Gebruik je vaak interne afkortingen die extern slecht begrepen worden? Ook hiervan kun je instellen dat ze automatisch vervangen worden door de tekst waar ze voor staan.
 
 ## Bijvoorbeeld
 
