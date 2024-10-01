@@ -8,7 +8,7 @@ Kleine toelichting: om in de tabllen op de voorbeelden.md pagina een `enter` te 
 
 Hieronder de handleidingspagina voor het thema wat gebruikt wordt. Kan op termijn allicht weer weg, nu nog handig voor referentie.
 
-Nerderige plek van de 'voorkant' [is hier]([url](https://hermankopinga.github.io/tovertypen-nl/)).
+Nerderige plek van de 'voorkant' [is hier](https://hermankopinga.github.io/tovertypen-nl/).
 [Tovertypen.nl](https://www.tovertypen.nl) kon je zelf allicht ook wel vinden.
 
 # just-the-docs-template
